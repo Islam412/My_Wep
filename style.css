@@ -62,3 +62,11 @@ section {
     font-weight: 500;
 }
 
+.main h2 span {
+    display: inline-block;
+    margin-top: 10px;
+    color: #feeae6;
+    font-size: 3em;
+    font-weight: 600;
+}
+
