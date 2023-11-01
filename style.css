@@ -103,3 +103,23 @@ section {
     padding-right: 30px;
 }
 
+.title {
+    display: flex;
+    justify-content: center;
+    color: #8a918b;
+    font-size: 2.2me;
+    font-weight: 800;
+    margin-bottom: 30px;
+}
+
+.content {
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.card {
+    background-color: #fff;
+    
+}
