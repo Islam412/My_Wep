@@ -121,5 +121,10 @@ section {
 
 .card {
     background-color: #fff;
-    
+    width: 21.25em;
+    box-shadow: 0 5px 25px rgba(1 1 1 /25%);
+    border-radius: 10px;
+    padding: 25px;
+    margin: 15px;
 }
+
