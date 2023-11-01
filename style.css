@@ -151,3 +151,21 @@ section {
     margin: 10px;
 }
 
+.projects {
+    background-color: #000016;
+}
+
+.projects.content{
+    margin-top: 30px;
+}
+
+.projects-card {
+    background-color: #fff;
+    border: 1px solid #fff;
+    min-height: 14em;
+    width: 23me;
+    overflow: hidden;
+    border-radius: 10px;
+    margin: 20px;
+    transition: 0.7s ease;
+}
