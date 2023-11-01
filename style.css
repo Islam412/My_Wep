@@ -55,3 +55,10 @@ section {
     background-position: center down;
     background-attachment: fixed;
 }
+
+.main h2 {
+    color: #fff;
+    font-size: 1.4em;
+    font-weight: 500;
+}
+
