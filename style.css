@@ -169,3 +169,7 @@ section {
     margin: 20px;
     transition: 0.7s ease;
 }
+
+.projects-card:hover {
+    transform: scale(1.1);
+}
