@@ -31,7 +31,6 @@ header {
 .navigation a{
     color: #3a6cf4;
     text-decoration: none;
-    text-transform: uppercase;
     font-size: 1.1em;
     font-weight: 500;
     padding-left: 30px;
@@ -103,3 +102,4 @@ section {
     font-size: 1.7em;
     padding-right: 30px;
 }
+
