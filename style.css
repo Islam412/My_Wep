@@ -126,5 +126,22 @@ section {
     border-radius: 10px;
     padding: 25px;
     margin: 15px;
+    transition: 0.7s ease;
 }
 
+.card:hover {
+    transform: scale(1.1);
+}
+
+.icon {
+    color: #8a918b;
+    font-size: 8em;
+    text-align: center;
+}
+
+.info h3 {
+    color: #8a918b;
+    font-size: 1.2em;
+    font-weight: 700;
+    margin: 10px;
+}
