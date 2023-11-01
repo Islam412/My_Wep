@@ -139,9 +139,19 @@ section {
     text-align: center;
 }
 
+.info {
+    text-align: center;
+}
+
+
 .info h3 {
     color: #8a918b;
     font-size: 1.2em;
     font-weight: 700;
     margin: 10px;
+}
+
+.info p {
+    color: #8a918b;
+
 }
