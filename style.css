@@ -195,5 +195,16 @@ section {
 .project-title {
     display: flex;
     justify-content: space-between;
+    text-transform: uppercase;
+    font-weight: 800;
+    margin-top: 10px;
 }
 
+.more-details {
+    text-decoration: none;
+    color: #3a6cf4;
+}
+
+.more-details:hover {
+    color: #667bb4;
+}
