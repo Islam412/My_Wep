@@ -173,3 +173,27 @@ section {
 .projects-card:hover {
     transform: scale(1.1);
 }
+
+
+.projects-card:hover {
+    opacity: 0.9;
+}
+
+.project-image img{
+    width: 100%;
+}
+
+.project-info {
+    padding: 1em;
+}
+
+.project-category {
+    font-size: 0.8;
+    color: #000016;
+}
+
+.project-title {
+    display: flex;
+    justify-content: space-between;
+}
+
