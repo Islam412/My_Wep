@@ -213,4 +213,10 @@ section {
     font-size: 4.5em;
 }
 
+.content .info h3{
+    color: #000016;
+}
 
+.content .info p {
+    font-size: 1.5em;
+}
