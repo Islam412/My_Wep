@@ -228,3 +228,9 @@ section {
     display: flex;
     justify-content: space-between;
 }
+
+.footer-title {
+    font-size: 1.3em;
+    font-weight: 600;
+}
+
