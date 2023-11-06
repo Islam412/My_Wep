@@ -212,9 +212,9 @@ section {
 
 .skills {
     background-color: #fff;
-    padding: 2mer var(--padding);
+    padding: 2mer;
     display: flex;
-    align-items: center;
+    align-items: flex;
     justify-content: space-evenly;
 }
 
@@ -227,7 +227,7 @@ section {
 }
 
 .skills .content-skills {
-    width: 50%;
+    width: 60%;
 }
 
 .content-skills {
