@@ -342,3 +342,22 @@ section {
     
     }
 }
+
+
+@media only screen and (max-width: 768px) {
+    body {
+        font-size: 14px;
+    }
+    .main h2 {
+        font-size: 2rem;
+    }
+}
+
+@media only screen and (max-width: 480px) {
+    body {
+        font-size: 12px;
+    }
+    .main h2 {
+        font-size: 1.5rem;
+    }
+}
